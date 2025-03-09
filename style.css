@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #EA1D2C;
+    background-color: #46538d;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -165,6 +165,9 @@ header h1 {
     background-color: #C41722;
 }
 
+#total{
+    color: #C41722;
+}
 /* Responsividade */
 @media (max-width: 600px) {
     .menu {
